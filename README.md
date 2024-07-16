@@ -1,9 +1,7 @@
-# Ladybird
-
-[Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards.
+# lexxy2224 is a truly independent web browser, using a novel engine based on web standards.
 
 > [!IMPORTANT]
-> Ladybird is in a pre-alpha state, and only suitable for use by developers
+> Lexxy2224is in a pre-alpha state, and only suitable for use by developers
 >
 
 ## Features
